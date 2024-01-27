@@ -1,4 +1,7 @@
-.vscode/*
+.vscode
 .env
 .glitch-assets
-node_modules/
+node_modules
+.cache
+.upm
+.config
